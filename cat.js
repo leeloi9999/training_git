@@ -58,5 +58,4 @@ comment_form( array(
     </div>
 </div>
 <ul>
-    <?php 
-    wp_list_comments( array('callback' => 'glw_show_commen
+edhrthrthn

@@ -45,8 +45,7 @@ comment_form( array(
 ?>
 </div>
 <!-- end form  -->
-<div class="comment-list mb-60">
-<div class="comment-title mb-40">
+<div class="co
     <h5 class="mb-5">
     <?php
     comments_number(
